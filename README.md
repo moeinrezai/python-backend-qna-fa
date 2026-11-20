@@ -131,9 +131,20 @@ python-backend-qna-fa/
 
 ## ⚡ FastAPI
 
-سؤال‌ها، تجربیات و مسائل مربوط به FastAPI.
+موضوعات مربوط به FastAPI، از جمله:
 
-این بخش در ادامه توسعه پروژه تکمیل خواهد شد.
+* ASGI
+* Event Loop
+* Routing
+* Pydantic
+* Request & Response
+* Dependency Injection
+* Middleware
+* Authentication
+* Background Tasks
+* SQLAlchemy
+* Lifespan
+* Production Deployment
 
 ---
 
@@ -167,7 +178,20 @@ python-backend-qna-fa/
 
 ## 🗄️ Database
 
-موضوعات مرتبط با طراحی و استفاده از Database در پروژه‌های Backend.
+موضوعات مرتبط با Database، از جمله:
+
+* ACID
+* Normalization
+* Primary Keys
+* Indexing
+* Transactions
+* Isolation Levels
+* Concurrency Control
+* Locks & Deadlocks
+* Query Optimization
+* Connection Pooling
+* Partitioning & Sharding
+* Migrations
 
 ---
 
