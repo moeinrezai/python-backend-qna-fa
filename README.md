@@ -131,9 +131,16 @@ python-backend-qna-fa/
 
 ## ⚡ FastAPI
 
-سؤال‌ها، تجربیات و مسائل مربوط به FastAPI.
+موضوعات و سؤالات تخصصی مربوط به FastAPI، از جمله:
 
-این بخش در ادامه توسعه پروژه تکمیل خواهد شد.
+* معماری ناهمگام (Async / ASGI) و Event Loop
+* اعتبارسنجی داده با Pydantic V2
+* سیستم تزریق وابستگی (Dependency Injection - Depends)
+* احراز هویت و امنیت (OAuth2, JWT, CORS)
+* یکپارچه‌سازی با پایگاه داده و SQLAlchemy 2.0 Async
+* Background Tasks و صف‌های پردازشی
+* مدیریت خطاها و لاگ‌های ساختاریافته (Structured Logging)
+* استقرار در Production با Uvicorn و Gunicorn
 
 ---
 
@@ -167,7 +174,17 @@ python-backend-qna-fa/
 
 ## 🗄️ Database
 
-موضوعات مرتبط با طراحی و استفاده از Database در پروژه‌های Backend.
+موضوعات و سؤالات تخصصی مرتبط با طراحی، بهینه‌سازی و استفاده از Database در پروژه‌های Backend، از جمله:
+
+* اصول ACID و سطوح نرمال‌سازی (1NF تا BCNF)
+* استراتژی‌های ایندکس‌گذاری (B-Tree, GIN, Composite, Partial)
+* تراکنش‌ها، سطوح ایزولاسیون و همروندی (MVCC, Deadlocks)
+* قفل‌های خوش‌بینانه و بدبینانه (Optimistic & Pessimistic Locks)
+* تحلیل کارایی و خروجی EXPLAIN ANALYZE
+* رفع مشکل N+1 Query و بهینه‌سازی Pagination
+* استخر اتصالات (Connection Pooling و PgBouncer)
+* مقیاس‌پذیری، Replication، Sharding و Partitioning
+* مهاجرت دیتابیس بدون قطعی (Zero-Downtime Migrations)
 
 ---
 
